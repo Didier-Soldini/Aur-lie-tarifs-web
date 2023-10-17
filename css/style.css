@@ -21,9 +21,14 @@ object-fit: contain;
 
 @media screen and (max-width: 768px) {
 
+    .container {
+            width: 95%;
+            height: 100%;
+        }
+
 .container img {
         width: 100%;
-        object-fit: contain;
+        object-fit:contain;
     }
 
 }
