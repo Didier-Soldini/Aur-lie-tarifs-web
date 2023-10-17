@@ -21,12 +21,11 @@ object-fit: contain;
 @media screen and (max-width: 768px) {
 
     body {
-            margin: 20px;
+            margin: 40px 0px 0px 0px;
             
         }
 
     .container {
-            width: 95%;
             height: 100%;
         }
 
